@@ -1,0 +1,677 @@
+[
+    {
+        "project_name": "libcloud",
+        "repository_url": "https://github.com/apache/libcloud",
+        "language": "Python"
+    },
+    {
+        "project_name": "chemistry-cmislib",
+        "repository_url": "https://github.com/apache/chemistry-cmislib",
+        "language": "Python"
+    },
+    {
+        "project_name": "tashi",
+        "repository_url": "https://github.com/apache/tashi",
+        "language": "Python"
+    },
+    {
+        "project_name": "predictionio-sdk-python",
+        "repository_url": "https://github.com/apache/predictionio-sdk-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "bloodhound",
+        "repository_url": "https://github.com/apache/bloodhound",
+        "language": "Python"
+    },
+    {
+        "project_name": "qpid-dispatch",
+        "repository_url": "https://github.com/apache/qpid-dispatch",
+        "language": "Python"
+    },
+    {
+        "project_name": "cloudstack-docs-rn",
+        "repository_url": "https://github.com/apache/cloudstack-docs-rn",
+        "language": "Python"
+    },
+    {
+        "project_name": "allura",
+        "repository_url": "https://github.com/apache/allura",
+        "language": "Python"
+    },
+    {
+        "project_name": "fluo-muchos",
+        "repository_url": "https://github.com/apache/fluo-muchos",
+        "language": "Python"
+    },
+    {
+        "project_name": "trafficserver-qa",
+        "repository_url": "https://github.com/apache/trafficserver-qa",
+        "language": "Python"
+    },
+    {
+        "project_name": "dubbo-python",
+        "repository_url": "https://github.com/apache/dubbo-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow",
+        "repository_url": "https://github.com/apache/airflow",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-retired-wave-docs",
+        "repository_url": "https://github.com/apache/incubator-retired-wave-docs",
+        "language": "Python"
+    },
+    {
+        "project_name": "cloudstack-ec2stack",
+        "repository_url": "https://github.com/apache/cloudstack-ec2stack",
+        "language": "Python"
+    },
+    {
+        "project_name": "cloudstack-gcestack",
+        "repository_url": "https://github.com/apache/cloudstack-gcestack",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-pagespeed-drp",
+        "repository_url": "https://github.com/apache/incubator-pagespeed-drp",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-retired-cotton",
+        "repository_url": "https://github.com/apache/incubator-retired-cotton",
+        "language": "Python"
+    },
+    {
+        "project_name": "steve",
+        "repository_url": "https://github.com/apache/steve",
+        "language": "Python"
+    },
+    {
+        "project_name": "guacamole-manual",
+        "repository_url": "https://github.com/apache/guacamole-manual",
+        "language": "Python"
+    },
+    {
+        "project_name": "qpid-python",
+        "repository_url": "https://github.com/apache/qpid-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "flagon-distill",
+        "repository_url": "https://github.com/apache/flagon-distill",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-flagon-userale-pyqt5",
+        "repository_url": "https://github.com/apache/incubator-flagon-userale-pyqt5",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-ariatosca",
+        "repository_url": "https://github.com/apache/incubator-ariatosca",
+        "language": "Python"
+    },
+    {
+        "project_name": "usergrid-python",
+        "repository_url": "https://github.com/apache/usergrid-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-spot",
+        "repository_url": "https://github.com/apache/incubator-spot",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-package-kafka",
+        "repository_url": "https://github.com/apache/openwhisk-package-kafka",
+        "language": "Python"
+    },
+    {
+        "project_name": "tvm",
+        "repository_url": "https://github.com/apache/tvm",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-utilities",
+        "repository_url": "https://github.com/apache/openwhisk-utilities",
+        "language": "Python"
+    },
+    {
+        "project_name": "cassandra-dtest",
+        "repository_url": "https://github.com/apache/cassandra-dtest",
+        "language": "Python"
+    },
+    {
+        "project_name": "qpid-interop-test",
+        "repository_url": "https://github.com/apache/qpid-interop-test",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-deploy-mesos",
+        "repository_url": "https://github.com/apache/openwhisk-deploy-mesos",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-django-portal",
+        "repository_url": "https://github.com/apache/airavata-django-portal",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-runtime-docker",
+        "repository_url": "https://github.com/apache/openwhisk-runtime-docker",
+        "language": "Python"
+    },
+    {
+        "project_name": "kibble-scanners",
+        "repository_url": "https://github.com/apache/kibble-scanners",
+        "language": "Python"
+    },
+    {
+        "project_name": "kibble-1",
+        "repository_url": "https://github.com/apache/kibble-1",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-edge",
+        "repository_url": "https://github.com/apache/sdap-edge",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-nexus",
+        "repository_url": "https://github.com/apache/sdap-nexus",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-nexusproto",
+        "repository_url": "https://github.com/apache/sdap-nexusproto",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-ningesterpy",
+        "repository_url": "https://github.com/apache/sdap-ningesterpy",
+        "language": "Python"
+    },
+    {
+        "project_name": "comdev-projects",
+        "repository_url": "https://github.com/apache/comdev-projects",
+        "language": "Python"
+    },
+    {
+        "project_name": "dubbo-python2",
+        "repository_url": "https://github.com/apache/dubbo-python2",
+        "language": "Python"
+    },
+    {
+        "project_name": "servicecomb-docs",
+        "repository_url": "https://github.com/apache/servicecomb-docs",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-warble-node",
+        "repository_url": "https://github.com/apache/incubator-warble-node",
+        "language": "Python"
+    },
+    {
+        "project_name": "cloudstack-documentation",
+        "repository_url": "https://github.com/apache/cloudstack-documentation",
+        "language": "Python"
+    },
+    {
+        "project_name": "rocketmq-client-python",
+        "repository_url": "https://github.com/apache/rocketmq-client-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-composer-python",
+        "repository_url": "https://github.com/apache/openwhisk-composer-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "phoenix-queryserver",
+        "repository_url": "https://github.com/apache/phoenix-queryserver",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-datalab",
+        "repository_url": "https://github.com/apache/incubator-datalab",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-custos",
+        "repository_url": "https://github.com/apache/airavata-custos",
+        "language": "Python"
+    },
+    {
+        "project_name": "openwhisk-runtime-rust",
+        "repository_url": "https://github.com/apache/openwhisk-runtime-rust",
+        "language": "Python"
+    },
+    {
+        "project_name": "comdev-wwwsite",
+        "repository_url": "https://github.com/apache/comdev-wwwsite",
+        "language": "Python"
+    },
+    {
+        "project_name": "diversity-site",
+        "repository_url": "https://github.com/apache/diversity-site",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-ci-specs",
+        "repository_url": "https://github.com/apache/infrastructure-ci-specs",
+        "language": "Python"
+    },
+    {
+        "project_name": "mxnet-ci",
+        "repository_url": "https://github.com/apache/mxnet-ci",
+        "language": "Python"
+    },
+    {
+        "project_name": "cassandra-website",
+        "repository_url": "https://github.com/apache/cassandra-website",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-otp",
+        "repository_url": "https://github.com/apache/infrastructure-otp",
+        "language": "Python"
+    },
+    {
+        "project_name": "couchdb-infra-cm",
+        "repository_url": "https://github.com/apache/couchdb-infra-cm",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-mft-portal",
+        "repository_url": "https://github.com/apache/airavata-mft-portal",
+        "language": "Python"
+    },
+    {
+        "project_name": "skywalking-python",
+        "repository_url": "https://github.com/apache/skywalking-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-pypubsub",
+        "repository_url": "https://github.com/apache/infrastructure-pypubsub",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-ingester",
+        "repository_url": "https://github.com/apache/sdap-ingester",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-liminal",
+        "repository_url": "https://github.com/apache/incubator-liminal",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-testapp",
+        "repository_url": "https://github.com/apache/infrastructure-testapp",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-blocky-client",
+        "repository_url": "https://github.com/apache/infrastructure-blocky-client",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-kif",
+        "repository_url": "https://github.com/apache/infrastructure-kif",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-loggy",
+        "repository_url": "https://github.com/apache/infrastructure-loggy",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow-client-python",
+        "repository_url": "https://github.com/apache/airflow-client-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-bluemarlin",
+        "repository_url": "https://github.com/apache/incubator-bluemarlin",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-mailstats",
+        "repository_url": "https://github.com/apache/infrastructure-mailstats",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-django-portal-sdk",
+        "repository_url": "https://github.com/apache/airavata-django-portal-sdk",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-ponymail-unit-tests",
+        "repository_url": "https://github.com/apache/incubator-ponymail-unit-tests",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-ponymail-foal",
+        "repository_url": "https://github.com/apache/incubator-ponymail-foal",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-uninstaller",
+        "repository_url": "https://github.com/apache/infrastructure-uninstaller",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-boxer",
+        "repository_url": "https://github.com/apache/infrastructure-boxer",
+        "language": "Python"
+    },
+    {
+        "project_name": "bloodhound-core",
+        "repository_url": "https://github.com/apache/bloodhound-core",
+        "language": "Python"
+    },
+    {
+        "project_name": "ignite-python-thin-client",
+        "repository_url": "https://github.com/apache/ignite-python-thin-client",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow-ci-infra",
+        "repository_url": "https://github.com/apache/airflow-ci-infra",
+        "language": "Python"
+    },
+    {
+        "project_name": "buildstream",
+        "repository_url": "https://github.com/apache/buildstream",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-roundtrip",
+        "repository_url": "https://github.com/apache/infrastructure-roundtrip",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-occ",
+        "repository_url": "https://github.com/apache/infrastructure-occ",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-aardvark-proxy",
+        "repository_url": "https://github.com/apache/infrastructure-aardvark-proxy",
+        "language": "Python"
+    },
+    {
+        "project_name": "kibble",
+        "repository_url": "https://github.com/apache/kibble",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-svnauthz",
+        "repository_url": "https://github.com/apache/infrastructure-svnauthz",
+        "language": "Python"
+    },
+    {
+        "project_name": "flink-jira-bot",
+        "repository_url": "https://github.com/apache/flink-jira-bot",
+        "language": "Python"
+    },
+    {
+        "project_name": "openjpa-site",
+        "repository_url": "https://github.com/apache/openjpa-site",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-pelican",
+        "repository_url": "https://github.com/apache/infrastructure-pelican",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-blocky4",
+        "repository_url": "https://github.com/apache/infrastructure-blocky4",
+        "language": "Python"
+    },
+    {
+        "project_name": "apisix-python-plugin-runner",
+        "repository_url": "https://github.com/apache/apisix-python-plugin-runner",
+        "language": "Python"
+    },
+    {
+        "project_name": "hunter",
+        "repository_url": "https://github.com/apache/hunter",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow-flask-openid-fork",
+        "repository_url": "https://github.com/apache/airflow-flask-openid-fork",
+        "language": "Python"
+    },
+    {
+        "project_name": "sdap-in-situ-data-services",
+        "repository_url": "https://github.com/apache/sdap-in-situ-data-services",
+        "language": "Python"
+    },
+    {
+        "project_name": "dolphinscheduler-ambari",
+        "repository_url": "https://github.com/apache/dolphinscheduler-ambari",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-pypubsub-ldap",
+        "repository_url": "https://github.com/apache/infrastructure-pypubsub-ldap",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-github-event-notifier",
+        "repository_url": "https://github.com/apache/infrastructure-github-event-notifier",
+        "language": "Python"
+    },
+    {
+        "project_name": "beam-starter-python",
+        "repository_url": "https://github.com/apache/beam-starter-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "shenyu-client-python",
+        "repository_url": "https://github.com/apache/shenyu-client-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-commitbot",
+        "repository_url": "https://github.com/apache/infrastructure-commitbot",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-gha-notifier",
+        "repository_url": "https://github.com/apache/infrastructure-gha-notifier",
+        "language": "Python"
+    },
+    {
+        "project_name": "buildstream-plugins",
+        "repository_url": "https://github.com/apache/buildstream-plugins",
+        "language": "Python"
+    },
+    {
+        "project_name": "dolphinscheduler-mlflow",
+        "repository_url": "https://github.com/apache/dolphinscheduler-mlflow",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-github-discussions-notifier",
+        "repository_url": "https://github.com/apache/infrastructure-github-discussions-notifier",
+        "language": "Python"
+    },
+    {
+        "project_name": "lucene-jira-archive",
+        "repository_url": "https://github.com/apache/lucene-jira-archive",
+        "language": "Python"
+    },
+    {
+        "project_name": "attic-site",
+        "repository_url": "https://github.com/apache/attic-site",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-download-integrity-checker",
+        "repository_url": "https://github.com/apache/infrastructure-download-integrity-checker",
+        "language": "Python"
+    },
+    {
+        "project_name": "datafusion-python",
+        "repository_url": "https://github.com/apache/datafusion-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-asfpy",
+        "repository_url": "https://github.com/apache/infrastructure-asfpy",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-resilientdb-python-sdk",
+        "repository_url": "https://github.com/apache/incubator-resilientdb-python-sdk",
+        "language": "Python"
+    },
+    {
+        "project_name": "pulsar-client-python",
+        "repository_url": "https://github.com/apache/pulsar-client-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-django-portal-commons",
+        "repository_url": "https://github.com/apache/airavata-django-portal-commons",
+        "language": "Python"
+    },
+    {
+        "project_name": "dolphinscheduler-sdk-python",
+        "repository_url": "https://github.com/apache/dolphinscheduler-sdk-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-jira-issues-importer",
+        "repository_url": "https://github.com/apache/infrastructure-jira-issues-importer",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-jira-to-pubsub",
+        "repository_url": "https://github.com/apache/infrastructure-jira-to-pubsub",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-selfserve-portal",
+        "repository_url": "https://github.com/apache/infrastructure-selfserve-portal",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-resilientdb-graphql",
+        "repository_url": "https://github.com/apache/incubator-resilientdb-graphql",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-oauth",
+        "repository_url": "https://github.com/apache/infrastructure-oauth",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-reporting-dashboard",
+        "repository_url": "https://github.com/apache/infrastructure-reporting-dashboard",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-asfquart",
+        "repository_url": "https://github.com/apache/infrastructure-asfquart",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-shorten",
+        "repository_url": "https://github.com/apache/infrastructure-shorten",
+        "language": "Python"
+    },
+    {
+        "project_name": "iceberg-python",
+        "repository_url": "https://github.com/apache/iceberg-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-cookiecutter-django-app",
+        "repository_url": "https://github.com/apache/airavata-cookiecutter-django-app",
+        "language": "Python"
+    },
+    {
+        "project_name": "airavata-cookiecutter-django-output-view",
+        "repository_url": "https://github.com/apache/airavata-cookiecutter-django-output-view",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-hugegraph-ai",
+        "repository_url": "https://github.com/apache/incubator-hugegraph-ai",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow-mssql-migration",
+        "repository_url": "https://github.com/apache/airflow-mssql-migration",
+        "language": "Python"
+    },
+    {
+        "project_name": "incubator-devlake-playground",
+        "repository_url": "https://github.com/apache/incubator-devlake-playground",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-gha-workflow-scanner",
+        "repository_url": "https://github.com/apache/infrastructure-gha-workflow-scanner",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-actions",
+        "repository_url": "https://github.com/apache/infrastructure-actions",
+        "language": "Python"
+    },
+    {
+        "project_name": "datafusion-benchmarks",
+        "repository_url": "https://github.com/apache/datafusion-benchmarks",
+        "language": "Python"
+    },
+    {
+        "project_name": "polaris",
+        "repository_url": "https://github.com/apache/polaris",
+        "language": "Python"
+    },
+    {
+        "project_name": "nifi-python-extensions",
+        "repository_url": "https://github.com/apache/nifi-python-extensions",
+        "language": "Python"
+    },
+    {
+        "project_name": "openserverless-operator",
+        "repository_url": "https://github.com/apache/openserverless-operator",
+        "language": "Python"
+    },
+    {
+        "project_name": "kafka-merge-queue-sandbox",
+        "repository_url": "https://github.com/apache/kafka-merge-queue-sandbox",
+        "language": "Python"
+    },
+    {
+        "project_name": "paimon-python",
+        "repository_url": "https://github.com/apache/paimon-python",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-github-merge-queue-notifier",
+        "repository_url": "https://github.com/apache/infrastructure-github-merge-queue-notifier",
+        "language": "Python"
+    },
+    {
+        "project_name": "infrastructure-gha-whitelist-manager",
+        "repository_url": "https://github.com/apache/infrastructure-gha-whitelist-manager",
+        "language": "Python"
+    },
+    {
+        "project_name": "airflow-publish",
+        "repository_url": "https://github.com/apache/airflow-publish",
+        "language": "Python"
+    }
+]

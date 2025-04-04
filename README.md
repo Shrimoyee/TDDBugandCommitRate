@@ -16,9 +16,12 @@ This tool aims to analyze this impact across multiple real-world open-source Pyt
 
 ## 📁 Project Structure
 
+`````
 📂 TDDBugandCommitRate/
-│── 📄 bugandcommitrate_python.py : contains the program to generate the images of the comparison.
-│── 📄 apache_python_projects.json : contains the list of python projects in json (git repo url).
-│── 📄 tdd_metric_python: contains the previously calculated tdd rate for all python projects in json.
+│── 📄 bugandcommitrate_python.py #contains the program to generate the images of the comparison.
+│── 📄 apache_python_projects.json # contains the list of python projects in json (git repo url).
+│── 📄 tdd_metric_python # contains the previously calculated tdd rate for all python projects in json.
 │── 📄 README.md   # This file (provides description about the coursework)
-│── 📂 reference_diagrams_new_rate: contains the results.
+│── 📂 reference_diagrams_new_rate # contains the results.
+
+`````
